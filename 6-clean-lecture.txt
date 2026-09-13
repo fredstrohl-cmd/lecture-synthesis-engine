@@ -1,0 +1,42 @@
+Plaud transcript export - BIO 201, Lecture 7: Cellular Respiration
+Recorded: 2026-09-08, 48 min, auto-transcribed
+
+Professor: All right, let's pull together the whole picture of aerobic
+respiration today. You ate breakfast, and by the end of this lecture you'll
+know exactly where those glucose molecules went.
+
+So, quick recap. Glycolysis splits one glucose into two pyruvate. That
+happens in the cytoplasm, no oxygen required, and it nets you 2 ATP. Fine.
+Then pyruvate gets shuttled into the mitochondrion and converted to
+acetyl-CoA. Now the part everyone mixes up: the Krebs cycle. Write this
+down. The Krebs cycle takes place in the mitochondrial matrix, the
+fluid-filled core inside the inner membrane. Every turn of the cycle pumps
+out NADH and FADH2, and those electron carriers are the real payoff, not
+the one measly ATP per turn.
+
+We then move to the electron transport chain. This is where the proton
+gradient comes from. The chain sits in the inner mitochondrial membrane,
+and this is important for your exam: the folding of that membrane into
+cristae is what gives the cell enough surface area to house thousands of
+these chains at once. Oxygen is the final electron acceptor. Without
+oxygen the chain backs up and the whole system stalls.
+
+Let me pause here, because last year half the class mixed up the Krebs
+cycle location with glycolysis on the midterm. Glycolysis is the one in
+the cytoplasm. The Krebs cycle is the one in the mitochondrial matrix.
+Two different compartments. Keep them straight.
+
+OK so to summarize the energy budget: glycolysis gives 2 ATP, the Krebs
+cycle gives 2 ATP per glucose, and oxidative phosphorylation gives roughly
+32 to 34 ATP, for a total of about 36 to 38 per glucose in most cells.
+
+One more thing on the electron transport chain. ATP synthase is the enzyme
+that actually makes the ATP. The protons flow back through it, down their
+gradient, and that flow spins the rotor and drives the phosphorylation of
+ADP. Chemiosmosis. That word will be on the exam.
+
+Student question: is lactic acid fermentation aerobic? No, it is
+anaerobic, it regenerates NAD plus so glycolysis can keep running when
+oxygen is scarce. That's why your muscles burn after sprints.
+
+Right, that's the lecture. Review figures 9.4 and 9.15 before Thursday.
